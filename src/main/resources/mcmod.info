@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "bettermaps.grabber",
+    "name": "bma_colorGrabber",
+    "description": "Generates config files for betterMapArt",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "http://daporkchop.net",
+    "updateUrl": "",
+    "authorList": [
+      "DaPorkchop_"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [
+      ""
+    ]
+  }
+]
